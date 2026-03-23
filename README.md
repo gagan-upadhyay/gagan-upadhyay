@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Personal expense tracker](https://github.com/gagan-upadhyay/expenseTrackerFrontEnd.git)
 
-- 💬 Ask me about **react, nextjs, nodejs**
+- 💬 Ask me about **react, nextjs, nodejs, mongoDB, postgresql, kafka, FastAPI, django**
 
 - 📫 How to reach me **gaganupadhyay.karan@gmail.com**
 
